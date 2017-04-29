@@ -1,8 +1,5 @@
-:host {
-    /* This is equivalent of the 'body' selector of a page. */
-}
-
-.blue {
-  background-color: #2196F3;
-  color: white;
+span {
+  font-size: 5rem;
+  padding: 0 1rem;
+  display: inline-block;
 }
