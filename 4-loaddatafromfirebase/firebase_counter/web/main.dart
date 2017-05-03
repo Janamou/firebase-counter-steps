@@ -7,10 +7,10 @@ import 'package:firebase_counter/app_component.dart';
 
 void main() {
   initializeApp(
-      apiKey: "AIzaSyAcd73Ww0ojuMsBpHM58EKtTvxkmsgAG0A",
-      authDomain: "counter-2a392.firebaseapp.com",
-      databaseURL: "https://counter-2a392.firebaseio.com",
-      storageBucket: "counter-2a392.appspot.com");
+      apiKey: "AIzaSyAH7S_gsce9RtNI8w0z7doiP3ugVJM8ZbI",
+      authDomain: "angulardart-firebase-io-2017.firebaseapp.com",
+      databaseURL: "https://angulardart-firebase-io-2017.firebaseio.com",
+      storageBucket: "angulardart-firebase-io-2017.appspot.com");
 
   bootstrap(AppComponent);
 }
